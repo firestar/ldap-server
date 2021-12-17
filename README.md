@@ -1,6 +1,6 @@
-##raw ldap server
+## Raw LDAP Server
 
-###ldap reference
+### LDAP Reference
 
 [LDAP Types](https://ldap.com/ldapv3-wire-protocol-reference-asn1-ber/)
 
